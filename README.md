@@ -6,14 +6,14 @@
 
 <h1>Description</h1>
 
-<p>"Four Cloud's Kitchen" is an innovative and practical project that implements real time food ordering system. This real-time, console-based application has been developed using Java as the programming language, along with the JDBC API for database connectivity. </p>
+<p>"Puneeth's Kitchen" is an innovative and practical project that implements real time food ordering system. This real-time, console-based application has been developed using Java as the programming language, along with the JDBC API for database connectivity. </p>
 
 ![266834401-8918961c-7a48-410e-895a-60c9ab0c277f](https://github.com/Puneeth-Gudipati/Four-Clouds-Kitchen-Project/assets/123624243/70b494b8-214e-4524-9576-7f98339c4a40)
 
 
 <h1>Project Overview</h1>
 
-<p>"Four Cloud's Kitchen" is a real-time, console-based application has been developed using Java as the programming language, along with the JDBC API for database connectivity. Here, we provide a comprehensive description of this project, highlighting its key features and functionalities:</p>
+<p>"Puneeth's Kitchen" is a real-time, console-based application has been developed using Java as the programming language, along with the JDBC API for database connectivity. Here, we provide a comprehensive description of this project, highlighting its key features and functionalities:</p>
 
 
 <b>Login System</b> :
